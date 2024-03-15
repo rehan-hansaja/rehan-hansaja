@@ -1,11 +1,5 @@
 # <div align="center">Hi 👋  I'm Rehan 
 ### <div align="center">| Computer Science Undergraduate | Server Side Developer | Web Developer | AI & ML Enthusiast | </div>  
-<br/> 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rehan-hansaja&&style=flat-square" align="center" />
-</div>  
-<br/> 
 
 - 🌱 I’m currently learning server side development and machine learning  
   
@@ -21,6 +15,10 @@
 
 <br/>  
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rehan-hansaja&&style=flat-square" align="center" />
+</div>  
+<br/> 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
