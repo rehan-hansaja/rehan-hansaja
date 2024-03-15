@@ -1,5 +1,6 @@
 # <div align="center">Hi 👋  I'm Rehan 
 ### <div align="center">| Computer Science Undergraduate | Server Side Developer | Web Developer | AI & ML Enthusiast | </div>  
+<br/>  
 
 - 🌱 I’m currently learning server side development and machine learning  
   
@@ -12,7 +13,6 @@
 
 - ⚡ Fun fact: It’s all 0’s and 1’s  
   
-
 <br/>  
 
 <div align="center">
