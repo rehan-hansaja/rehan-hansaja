@@ -18,7 +18,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rehan-hansaja&&style=flat-square" align="center" />
 </div>  
-<br/> 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
