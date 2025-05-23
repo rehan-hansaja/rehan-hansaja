@@ -15,10 +15,6 @@
   
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rehan-hansaja&&style=flat-square" align="center" />
-</div>  
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -83,10 +79,7 @@
 </a>
 <a href="https://medium.com/@rehanhansaja01" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/rehan_hansaja_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a> 
 </div>  
   
 <br/>  
